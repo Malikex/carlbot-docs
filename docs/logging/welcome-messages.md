@@ -9,11 +9,11 @@
 | Name | Example | Usage |
 | :--- | :--- | :--- |
 | **set welcome &lt;\#channel&gt;** | !set welcome \#join-say-hi | Sets the channel where welcome/leave/banmsg messages will be posted. |
-| **\[welcome\|greet\] &lt;text&gt;** | !greet Welcome {mention}, we've been expecting you | Sets up a welcome message that will be sent when a new user joins. |
-| **\[leave\|farewell\] &lt;text&gt;** | !farewell Goodbye {user}, maybe it wasn't meant to be... | Like !greet but for people leaving |
+| **\[welcome\|greet\] &lt;text&gt;** | !greet Welcome {mention}, ᴅᴏʙʀᴏ ᴅᴏšᴀᴏ ɴᴀ Fʟᴇx ʀᴘ | Sets up a welcome message that will be sent when a new user joins. |
+| **\[leave\|farewell\] &lt;text&gt;** | !farewell bye {user}, ɪᴢᴀšᴀᴏ | Like !greet but for people leaving |
 | **banmsg &lt;text&gt;** | !banmsg **{user}** just got blown the fuck out | Like !greet but for people getting banned |
 | **\[dmjoin\|pmjoin\|joindm\|joinpm\] &lt;text&gt;** | !dmjoin Hello and welcome to {server}, before chatting you need to assign roles in \#get-roles | Like !greet except it dms the message to the user upon joining |
-| **testgreet** | !testgreet | Not sure how your welcome/farewell/dm messages actually look? Just type !testgreet and have the bot spit out all of them. |
+| **testgreet** | !testgreet | ᴅᴏʙʀᴏ ᴅᴏšᴀᴏ ɴᴀ ғʟᴇx ʀᴘ ᴜᴢ̌ɪᴠᴀᴊ |
 
 All these messages will be sent to the channel saved with `!set welcome`. **Use a command without any text to remove the message.** Supports the following variables:
 
